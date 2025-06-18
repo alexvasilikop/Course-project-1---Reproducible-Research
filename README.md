@@ -1,1 +1,1 @@
-# Course-project-1---Reproducible-Research
+# Course-project-1-Reproducible-Research
